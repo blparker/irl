@@ -1,4 +1,8 @@
 ### Setup
+- Check out the repo:
+
+`git clone https://github.com/blparker/irl.git`
+
 - In the root directory, run:
 
 `npm install`
